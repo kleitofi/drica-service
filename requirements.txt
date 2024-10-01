@@ -1,0 +1,13 @@
+pandas==2.2.0
+pyodbc==5.1.0
+azure-common==1.1.28
+azure-core==1.30.2
+azure-cosmos==4.7.0
+azure-cosmosdb-nspkg==2.0.2
+azure-cosmosdb-table==1.0.6
+azure-data-tables==12.5.0
+azure-nspkg==3.0.2
+azure-storage-blob==12.20.0
+streamlit==1.32.2
+streamlit-aggrid==1.0.5
+streamlit-antd-components==0.3.2
